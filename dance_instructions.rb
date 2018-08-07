@@ -37,19 +37,19 @@ end
 def gangnam_style
   starting_stance
   bust_a_move
-base_footwork
-bob_the_reins
-skip_step
-skip_step
-skip_step
-skip_step
-skip_step
-skip_step
-skip_step
-skip_step
-lasso
-skip_step
-skip_step
+  base_footwork
+  bob_the_reins
+  skip_step
+  skip_step
+  skip_step
+  skip_step
+  skip_step
+  skip_step
+  skip_step
+  skip_step
+  lasso
+  skip_step
+  skip_step
 skip_step
 skip_step
 skip_step
