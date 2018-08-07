@@ -34,8 +34,9 @@ def bust_a_move
   puts "Be cool and be snazzy ;)"
 end
 
-assume_proper_stance
-bust_a_move
+def gangnam_style
+  starting_stance
+  bust_a_move
 base_footwork
 bob_the_reins
 skip_step
@@ -55,3 +56,5 @@ skip_step
 skip_step
 skip_step
 skip_step
+end
+
