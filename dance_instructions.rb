@@ -50,11 +50,11 @@ def gangnam_style
   lasso
   skip_step
   skip_step
+  skip_step
+  skip_step
+  skip_step
 skip_step
-skip_step
-skip_step
-skip_step
-skip_step
+  skip_step
 skip_step
 end
 
